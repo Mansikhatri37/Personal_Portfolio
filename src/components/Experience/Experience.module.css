@@ -27,6 +27,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
+  height: 40%;
 }
 
 .skill {
@@ -84,20 +85,23 @@
 
 .historyItemDetails h3 {
   font-size: 30px;
-  font-weight: 500;
+  font-weight: bolder;
+
 }
 
 .historyItemDetails p {
-  font-size: 20px;
+  margin-top: 8px;
+  font-size: 18px;
   font-weight: 300;
 }
 
 .historyItemDetails ul {
   margin-top: 6px;
-  list-style-position: inside;
-  font-size: 25px;
+  color: rgb(213, 212, 212);
+  font-size: 20px;
   list-style-type: disc;
   margin-left: 17px;
+  margin-top: 20px;
 }
 
 @media screen and (max-width: 830px) {

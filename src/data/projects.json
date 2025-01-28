@@ -1,25 +1,33 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Bus Booking Application",
+    "imageSrc": "projects/busapp.jpg",
+    "description": "A full-stack bus booking app built using the MERN stack. Users can search, book, and manage bus tickets. It integrates RESTful APIs for route management and booking functionalities, with a responsive and user-friendly interface.",
+    "skills": ["MERN", "RESTful APIs", "UI/UX Design"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "WebRTC Video Calling App",
+    "imageSrc": "projects/videoapp.png",
+    "description": "A real-time video calling app using WebRTC, Express, and Socket.io. It allows seamless peer-to-peer communication with support for video and audio calls, using UDP for low latency and efficient connection handling.",
+    "skills": ["WebRTC", "Socket.io", "UDP Protocol"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Vanilla Women's Shopping Website",
+    "imageSrc": "projects/vanillapp.png",
+    "description": "A women's shopping website made with HTML and CSS. Users can browse categories and view products with a responsive design that ensures a seamless experience across devices.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weatherapp.png",
+    "description": "A weather app built with HTML, CSS, and JavaScript that provides real-time weather updates using an API. It displays key weather information like temperature and humidity for any location.",
+    "skills": ["HTML", "CSS", "JavaScript", "API Integration"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
